@@ -1,5 +1,6 @@
 # Tic-Tac-Toe
-Tic-Tac-Toe game in JavaFX
+Tic-Tac-Toe game in JavaFX  
+Com S 319 - HW 4
 ## Usage 
 Ensure TicTacToe.java, o.jpg, and x.jpg are all in src folder and run as Java Application.
 ## Approach
